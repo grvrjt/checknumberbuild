@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/checknumberbuild/static/css/main.186288db.chunk.css",
+    "main.js": "/checknumberbuild/static/js/main.e92a1853.chunk.js",
+    "main.js.map": "/checknumberbuild/static/js/main.e92a1853.chunk.js.map",
+    "runtime-main.js": "/checknumberbuild/static/js/runtime-main.d98c02bd.js",
+    "runtime-main.js.map": "/checknumberbuild/static/js/runtime-main.d98c02bd.js.map",
+    "static/css/2.fb8c722c.chunk.css": "/checknumberbuild/static/css/2.fb8c722c.chunk.css",
+    "static/js/2.6f09af46.chunk.js": "/checknumberbuild/static/js/2.6f09af46.chunk.js",
+    "static/js/2.6f09af46.chunk.js.map": "/checknumberbuild/static/js/2.6f09af46.chunk.js.map",
+    "index.html": "/checknumberbuild/index.html",
+    "precache-manifest.229c78fa41bc6e1d6be662200d56d38c.js": "/checknumberbuild/precache-manifest.229c78fa41bc6e1d6be662200d56d38c.js",
+    "service-worker.js": "/checknumberbuild/service-worker.js",
+    "static/css/2.fb8c722c.chunk.css.map": "/checknumberbuild/static/css/2.fb8c722c.chunk.css.map",
+    "static/css/main.186288db.chunk.css.map": "/checknumberbuild/static/css/main.186288db.chunk.css.map",
+    "static/js/2.6f09af46.chunk.js.LICENSE.txt": "/checknumberbuild/static/js/2.6f09af46.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/checknumberbuild/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d98c02bd.js",
+    "static/css/2.fb8c722c.chunk.css",
+    "static/js/2.6f09af46.chunk.js",
+    "static/css/main.186288db.chunk.css",
+    "static/js/main.e92a1853.chunk.js"
+  ]
+}
